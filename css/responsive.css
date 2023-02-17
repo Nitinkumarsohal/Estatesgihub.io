@@ -126,8 +126,10 @@
     }
     .section1 .text .btn-1 {
         padding: 13px 27px 13px 27px;
+        margin-left:0px;
     }
     .section1 .text .btn-2 {
+        margin-left:0px;
         padding: 13px 27px 13px 27px;
 
     }
