@@ -1,0 +1,153 @@
+
+@media (max-width: 1399.98px) {
+    .section1 .text h3 {
+        width: 100%;
+    }
+    .section2 .main-card .text p {
+        width: 100%;
+    }
+    .section3 .all-text .Vestibulum {
+        width: 100%;
+    }
+    .section3 .text .lorem {
+        width: 100%;
+    }
+    
+    .section4 .card-1 .text .Nulla {
+    width: 100%;
+}
+ }
+
+
+
+
+
+ @media (max-width: 1199.98px) {
+    .section2 .main-card {
+        padding: 15px;
+    }
+    .section2 .main-card .text p {
+        font-size: 15px;
+    }
+    .section4 .card-1 .text .Nulla {
+        font-size: 15px;
+        line-height: 153%;
+    }
+
+    
+  }
+
+
+
+
+  @media (max-width: 991px) {
+    .nav-link {
+        text-align: center;
+    }
+    .navbar-collapse {
+        padding: 10px;
+        background: #f7f7f7;
+        border-radius: 7px;
+    }
+    .form {
+        background-color: white;
+        margin: auto;
+        display: block;
+        width: 50%;
+    }
+    .icon {
+        display: none;
+    }
+    .section1 .img img{
+            margin: 44px 0px;
+  }
+  .section4 .card-1 .text .Nulla {
+    width: 100%;
+}
+.section2 .main-card {
+    padding: 18px !important;
+}
+}
+
+
+
+
+
+@media (max-width: 767.98px) { 
+    .section1 {
+        padding: 20px 0px 20px 0px;
+    }
+    .section2 {
+        padding: 20px 0px 20px 0px;
+    }
+    .section2 .main-card {
+        margin: 0px;
+
+        padding: 19px !important;
+    }
+    .section3 {
+        padding: 20px 0px 20px 0px;
+    }
+    footer button {
+        margin-top: 16px;
+    }
+    hr{
+        display: none;
+    }
+    .navbar-toggler {
+        background-color: #3a86ff;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 8px 13px 8px 13px;
+    }
+    .navbar-toggler:focus{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 575.98px) {
+    .text {
+        padding: 10px;
+    }
+    .section1 .text h3 {
+        width: 100%;
+        font-size: 21px;
+    }
+    .section1 .text p {
+        width: 100%;
+    }
+    .section1 .text .btn-1 {
+        padding: 13px 27px 13px 27px;
+    }
+    .section1 .text .btn-2 {
+        padding: 13px 27px 13px 27px;
+
+    }
+    .section2 h3 {
+        font-size: 28px;
+    }
+    .section3 .all-text h3 {
+        font-size: 27px;
+    }
+    .section4 h4 {
+        font-size: 28px;
+    }
+    footer button {
+        padding: 13px 27px 13px 27px;
+
+    }
+    footer h4 {
+        font-size: 22px;
+    }
+
+ }
+
+
